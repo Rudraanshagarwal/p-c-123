@@ -1,0 +1,16 @@
+body{
+    background:linear-gradient(blue,yellow) ;
+    font-family: 'Bebas Neue', sans-serif;
+}
+#ul{
+    background-color:plum ;
+    width:90%;
+    border-color: black;
+    border-style: groove;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+h1{
+    color: aliceblue;
+}
+
